@@ -10,7 +10,7 @@ namespace StaticExercise
             return result;
         }
 
-        public static double CelciusToFahrenheit(double celsius)
+        public static double CelsiusToFahrenheit(double celsius)
         {
             return (celsius * 9) / 5 + 32;
         }
